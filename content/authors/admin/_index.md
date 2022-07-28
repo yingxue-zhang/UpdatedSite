@@ -10,19 +10,16 @@ interests:
 social:
   - icon: envelope
     icon_pack: fas
-    link: /#contact
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
+    link: yzhang42@binghamton.edu
   - icon: graduation-cap
     icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: https://scholar.google.com/citations?user=8rVes9sAAAAJ&hl=en
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/yingxue-zhang
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://www.linkedin.com/in/yingxue-zhang-72226a160/
 organizations:
   - name: Binghamton University
     url: https://www.binghamton.edu/
@@ -45,6 +42,4 @@ Yingxue Zhang is an Assistant Professor in Computer Science Department at Bingha
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
 
-
-
-**Openings** I am looking for self-motivated PhD students to work with me on the exciting area of deep learning. I'm particularly interested in candidates with background in Artificial Intelligence, Deep Learning, Data Mining, Machine Learning, Statistics, Applied Math, and strong programming skill. Please send me a short email with your C.V. and anything you believe relevant!
+**Openings:** **I am looking for self-motivated PhD students to work with me on the exciting area of deep learning. I'm particularly interested in candidates with background in Artificial Intelligence, Deep Learning, Data Mining, Machine Learning, Statistics, Applied Math, and strong programming skill. Please send me a short email with your C.V. and anything you believe relevant!**
