@@ -7,9 +7,9 @@ authors:
   - Han Bao
   - Xun Zhou
   - Yiqun Xie
-  - Yingxue Zhang
+  - admin
   - Yanhua Li
-publication: ACM Transactions on Intelligent Systems and Technology (TIST)
+publication: In ACM Transactions on Intelligent Systems and Technology (TIST)
 draft: false
 featured: false
 image:
