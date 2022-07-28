@@ -9,7 +9,7 @@ authors:
   - Yiqun Xie
   - admin
   - Yanhua Li
-publication: In ACM Transactions on Intelligent Systems and Technology (TIST)
+publication: In *ACM Transactions on Intelligent Systems and Technology (TIST)*
 draft: false
 featured: false
 image:
