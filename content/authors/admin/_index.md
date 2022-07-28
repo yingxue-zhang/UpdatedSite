@@ -1,7 +1,7 @@
 ---
 title: Yingxue Zhang
 role: Assistant Professor
-avatar_filename: null
+avatar_filename: avatar.jpg
 bio: ""
 interests:
   - Artificial Intelligence
