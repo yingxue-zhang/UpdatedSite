@@ -8,5 +8,4 @@ subtitle: null
 design:
   columns: "2"
 ---
-
-Fall 2022: INFO 501 Information Systems I-Python and Data Mining
+* **Fall 2022: INFO 501 Information Systems I-Python and Data Mining**
