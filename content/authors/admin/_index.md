@@ -5,8 +5,10 @@ avatar_filename: ""
 bio: ""
 interests:
   - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Deep Learning
+  - Meta-Learning
+  - Imitation Learning
+  - Spatial-Temporal Data Mining
 social:
   - icon: envelope
     icon_pack: fas
@@ -38,7 +40,7 @@ email: ""
 superuser: true
 highlight_name: true
 ---
-Yingxue Zhang is an Assistant Professor in Computer Science Department at Binghamton University. She got her Ph.D. degree in Data Science from Worcester Polytechnic Institute in 2022. Her broad research interests include: (1) designing novel data mining, machine learning and AI techniques to solve spatial-temporal big data analytics problems relatedto smart cities, public safety, sustainability and business, and (2) human behavior analysis in autonomous driving, financial market and decision making using meta-learning, reinforcement learning and imitation learning methods.
+Yingxue Zhang is an Assistant Professor in **[Computer Science Department](https://www.binghamton.edu/computer-science/index.html)** at **[Binghamton University](https://www.binghamton.edu/)**. She got her Ph.D. degree in Data Science from Worcester Polytechnic Institute in 2022. Her broad research interests include: (1) designing novel data mining, machine learning and AI techniques to solve spatial-temporal big data analytics problems relatedto smart cities, public safety, sustainability and business, and (2) human behavior analysis in autonomous driving, financial market and decision making using meta-learning, reinforcement learning and imitation learning methods.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
 
