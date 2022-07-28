@@ -3,9 +3,11 @@ widget: blank
 widget_id: blank
 headless: true
 weight: 100
-title: Teaching
+title: Recent News
 subtitle: null
 design:
   columns: "2"
 ---
-* **Fall 2022: INFO 501 Information Systems I-Python and Data Mining**
+- **<font color="purple">[Position]</font>** 08/2022: Joined the Computer Science Department at Binghamton University as an Assistant Professor!
+
+- **<font color="green">[TPC]</font>** 03/2022: PC for KDD 2022
