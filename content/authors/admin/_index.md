@@ -44,4 +44,4 @@ Yingxue Zhang is an Assistant Professor in **[Computer Science Department](https
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/cv.pdf" "newtab" >}}CV{{< /staticref >}}.
 
-<font color="dark red"> **Openings:** I am looking for self-motivated PhD students to work with me on the exciting area of deep learning. I'm particularly interested in candidates with background in Artificial Intelligence, Deep Learning, Data Mining, Machine Learning, Statistics, Applied Math, and strong programming skill. Please send me a short email with your C.V. and anything you believe relevant!</font>
+<font color="dark red"> **Openings:** I am looking for self-motivated PhD students to work on deep learning topics. I'm particularly interested in candidates with background in CS/AI/Data Mining/Machine Learning/Stat/Math and strong programming skills. Please send me a short email with your C.V. and transcript.</font>
