@@ -1,6 +1,6 @@
 ---
 title: Yingxue Zhang
-role: Assistant Professor
+role: Assistant Professor in Computer Science Department
 avatar_filename: avatar.jpg
 bio: ""
 interests:
@@ -13,6 +13,8 @@ social:
   - icon: envelope
     icon_pack: fas
     link: yzhang42@binghamton.edu
+    display:
+      header: true
   - icon: graduation-cap
     icon_pack: fas
     link: https://scholar.google.com/citations?user=8rVes9sAAAAJ&hl=en
@@ -40,8 +42,8 @@ email: ""
 superuser: true
 highlight_name: true
 ---
-Yingxue Zhang is an Assistant Professor in **[Computer Science Department](https://www.binghamton.edu/computer-science/index.html)** at **[Binghamton University](https://www.binghamton.edu/)**. She got her Ph.D. degree in Data Science from Worcester Polytechnic Institute in 2022. Her broad research interests include: (1) designing novel data mining, machine learning and AI techniques to solve spatial-temporal big data analytics problems relatedto smart cities, public safety, sustainability and business, and (2) human behavior analysis in autonomous driving, financial market and decision making using meta-learning, reinforcement learning and imitation learning methods.
+Yingxue Zhang is an Assistant Professor in **[Computer Science Department](https://www.binghamton.edu/computer-science/index.html)** at **[Binghamton University](https://www.binghamton.edu/)**. She got her Ph.D. degree in Data Science from Worcester Polytechnic Institute in 2022. Her broad research interests include: (1) designing novel data mining, machine learning and AI techniques to solve spatial-temporal big data analytics problems related to smart cities and public safety, and (2) human behavior analysis and decision making.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/cv.pdf" "newtab" >}}CV{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download {{< staticref "uploads/cv.pdf" "newtab" >}}CV{{< /staticref >}}.
 
-<font color="dark red"> **Openings:** I am looking for self-motivated PhD students to work on deep learning topics. I'm particularly interested in candidates with background in CS/AI/Data Mining/Machine Learning/Stat/Math and strong programming skills. Please send me a short email with your C.V. and transcript.</font>
+<font color="dark red"> **Openings:** I am looking for self-motivated PhD students to work on deep learning topics. I'm particularly interested in candidates with background in CS/AI/Data Mining/Machine Learning/Stat/Math and strong programming skills. Please send me a short email with your CV and transcript.</font>
