@@ -1,6 +1,6 @@
 ---
 title: Yingxue Zhang
-role: Assistant Professor in Computer Science Department
+role: Assistant Professor
 avatar_filename: avatar.jpg
 bio: ""
 interests:
@@ -25,6 +25,8 @@ social:
     icon_pack: fab
     link: https://www.linkedin.com/in/yingxue-zhang-72226a160/
 organizations:
+  - name: Computer Science
+    url: https://www.binghamton.edu/computer-science/index.html
   - name: Binghamton University
     url: https://www.binghamton.edu/
 education:
