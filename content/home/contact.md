@@ -17,18 +17,19 @@ content:
 
   # Email form provider
   form:
-    provider: netlify
-    formspree:
-      id:
-    netlify:
-      # Enable CAPTCHA challenge to reduce spam?
-      captcha: false
+   provider: netlify
+   formspree:
+   id:
+   netlify:
+   # Enable CAPTCHA challenge to reduce spam?
+   captcha: false
 
   # Contact details (edit or remove options as required)
   email: yzhang42@binghamton.edu
   # phone: 888 888 88 88
+  office: Engineering Building, N04
   address:
-    street: 4400 Vestal Pkwy E, Engineering Building N04
+    street: 4400 Vestal Pkwy E
     city: Binghamton
     region: NY
     postcode: '13902'
