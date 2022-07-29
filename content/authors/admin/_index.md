@@ -29,6 +29,7 @@ organizations:
     url: https://www.binghamton.edu/computer-science/index.html
   - name: Binghamton University
     url: https://www.binghamton.edu/
+  - name: "Email: yzhang42@binghamton.edu"
 education:
   courses:
     - course: PhD in Data Science
