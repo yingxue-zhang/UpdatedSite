@@ -1,10 +1,10 @@
 ---
 title: "STrans-GAN: Spatially-Transferable Generative Adversarial Networks for
-  Urban Traffic Estimation."
+  Urban Traffic Estimation"
 publication_types:
   - "1"
 authors:
-  - Yingxue Zhang
+  - "**Yingxue Zhang**"
   - Yanhua Li
   - Xun Zhou
   - Xiangnan Kong
