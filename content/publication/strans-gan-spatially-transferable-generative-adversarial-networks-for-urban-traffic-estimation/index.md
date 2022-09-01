@@ -4,7 +4,7 @@ title: "STrans-GAN: Spatially-Transferable Generative Adversarial Networks for
 publication_types:
   - "1"
 authors:
-  - "**Yingxue Zhang**"
+  - admin
   - Yanhua Li
   - Xun Zhou
   - Xiangnan Kong
