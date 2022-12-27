@@ -8,7 +8,7 @@ authors:
   - Xun Zhou
   - Ziming Zhang
   - and Jun Luo
-publication: SIAM International Conference on Data Mining (SDM23), Minneapolis, April 27 - 39, 2023. (27.5% = 105/382 Acceptance Ratio).
+publication: SIAM International Conference on Data Mining (SDM23), Minneapolis, April 27 - 39, 2023. (27.5% = 105/382 Acceptance Ratio)
 draft: false
 featured: false
 image:
