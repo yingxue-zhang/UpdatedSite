@@ -10,7 +10,7 @@ authors:
   - Xiangnan Kong
   - and Jun Luo
 publication: IEEE International Conference on Data Mining, (9.77%=85/870 Full
-  paper acceptance ratio), Orlando, FL, Nov. 28 - Dec 1, 2022.
+  paper acceptance ratio), Orlando, FL, Nov. 28 - Dec 1, 2022
 draft: false
 featured: false
 image:
