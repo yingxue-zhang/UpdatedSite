@@ -1,6 +1,6 @@
 ---
 widget: blank
-widget_id: blank
+widget_id: students
 headless: true
 weight: 90
 title: Students
