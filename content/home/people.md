@@ -1,6 +1,6 @@
 ---
-widget: people
-widget_id: people
+widget: blank
+widget_id: blank
 headless: true
 weight: 95
 title: Students
