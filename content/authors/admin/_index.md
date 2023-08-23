@@ -5,10 +5,10 @@ avatar_filename: avatar.jpg
 bio: ""
 interests:
   - Artificial Intelligence
-  - Deep Learning
-  - Meta-Learning
+  - Reinforcement Learning
   - Imitation Learning
   - Spatial-Temporal Data Mining
+  - Meta-Learning
 social:
   - icon: graduation-cap
     icon_pack: fas
