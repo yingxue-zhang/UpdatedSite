@@ -1,8 +1,8 @@
 ---
-widget: people
+widget: blank
 widget_id: students
 headless: true
-weight: 90
+weight: 95
 title: Students
 active: true
 design:
