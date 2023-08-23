@@ -15,7 +15,7 @@ design:
 
 **[X﻿inbo Zhao](xinbozhao.com)**
 
-![](icon.png)
+![](avatar.jpg)
 
 PhD Student, Computer Science, Binghamton University\
 M.S., Computer Science, Waseda University, 2023\
