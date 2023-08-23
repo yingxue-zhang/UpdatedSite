@@ -13,13 +13,15 @@ design:
 ---
 ### ***Current PhD Students***
 
-**X﻿inbo Zhao**
+**[X﻿inbo Zhao](xinbozhao.com)**
+
+![](icon.png)
 
 PhD Student, Computer Science, Binghamton University\
 M.S., Computer Science, Waseda University, 2023\
 B.S., Computer Science, SiChuan Univeristy, 2021
 
-**Y﻿uhang Liu**
+**[Y﻿uhang Liu](yuhangliu.com)**
 
 PhD Student, Computer Science, Binghamton University\
 M.S., Computer Engineering, University of California, Riverside, 2022\
