@@ -10,11 +10,11 @@ main:
   - name: Publications
     url: '#publications'
     weight: 20
-  - name: Teaching
-    url: '#teaching'
-    weight: 30
   - name: Students
     url: '#blank'
+    weight: 30
+  - name: Teaching
+    url: '#teaching'
     weight: 40
   - name: Contact
     url: '#contact'
