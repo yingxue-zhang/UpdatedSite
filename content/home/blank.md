@@ -1,5 +1,5 @@
 ---
-widget: blank
+widget: people
 widget_id: students
 headless: true
 weight: 90
