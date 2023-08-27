@@ -8,6 +8,7 @@ subtitle: null
 design:
   columns: "2"
 ---
+* **<font color="blue">\[Student]</font>** 08/2023: Two Ph.D. students join the lab. Welcome, Xinbo and Yuhang!
 * **<font color="green">\[TPC]</font>** 08/2023: PC for AAAI 2024.
 * **<font color="green">\[TPC]</font>** 03/2023: PC for NeurIPS 2023.
 * **<font color="green">\[TPC]</font>** 01/2023: PC for KDD 2023 and IJCAI 2023.
