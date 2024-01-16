@@ -8,8 +8,7 @@ subtitle: null
 design:
   columns: "2"
 ---
-
-
+* **<font color="green">\[TPC]</font>** 01/2024: PC for KDD 2024.
 * **<font color="green">\[TPC]</font>** 09/2023: PC for SDM 2024.
 * **<font color="green">\[TPC]</font>** 09/2023: PC for ICLR 2024.
 * **<font color="blue">\[Student]</font>** 08/2023: Two Ph.D. students join the lab. Welcome, Xinbo and Yuhang!
