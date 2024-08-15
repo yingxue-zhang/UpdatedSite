@@ -35,7 +35,7 @@ education:
       year: 2018
     - course: BS in Computer Science
       institution: Shanghai Jiao Tong University
-      year: 2012
+      year: 2016
 email: ""
 superuser: true
 highlight_name: true
