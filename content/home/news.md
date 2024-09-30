@@ -8,7 +8,7 @@ subtitle: null
 design:
   columns: "2"
 ---
-* **<font color="red">\[Paper]</font> 09/2024: One paper was accepted by ﻿NeurIPS 2024﻿!**
+* **<font color="red">\[Paper]</font>** 09/2024:One paper was accepted by ﻿NeurIPS 2024!
 * **<font color="red">\[Paper]</font>** 09/2024: One paper was accepted by ﻿[ICDM 2024](https://icdm2024.org/). Congratulations to Yuhang!
 * **<font color="green">\[TPC]</font>** 06/2024: PC for KDD 2025, AAAI 2025 and ICLR 2025.
 * **<font color="red">\[Paper]</font>** 05/2024: One paper was accepted by [KDD 2024](https://kdd2024.kdd.org/). Congratulations to Xinbo!
