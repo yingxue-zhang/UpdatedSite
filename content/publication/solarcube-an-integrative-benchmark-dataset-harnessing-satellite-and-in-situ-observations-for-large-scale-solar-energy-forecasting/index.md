@@ -10,7 +10,7 @@ authors:
   - Dongdong Wang
   - Yanhua Li
   - admin
-  - Zhihao Wang and Zhili Li.
+  - Zhihao Wang and Zhili Li
 publication: "NeurIPS 2024 (Datasets and Benchmarks Track), Vancouver, Canada
   (acceptance rate: ~25%)"
 draft: false
