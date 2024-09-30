@@ -1,6 +1,6 @@
 ---
 title: "SolarCube: An Integrative Benchmark Dataset Harnessing Satellite and
-  In-situ Observations for Large-scale Solar Energy Forecasting. "
+  In-situ Observations for Large-scale Solar Energy Forecasting "
 publication_types:
   - "0"
 authors:
