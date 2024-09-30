@@ -11,8 +11,8 @@ authors:
   - Yiqun Xie
   - Yanhua Li
   - and Jun Luo
-publication: The 30th SIGKDD conference on Knowledge Discovery and Data Mining,
-  Barcelona, Spain, August 25 to 29, 2024.
+publication: "The 30th SIGKDD conference on Knowledge Discovery and Data Mining,
+  Barcelona, Spain, August 25 to 29, 2024 (acceptance rate: ~20%)"
 draft: false
 featured: false
 image:
