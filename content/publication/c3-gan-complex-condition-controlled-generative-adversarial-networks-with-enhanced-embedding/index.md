@@ -4,7 +4,7 @@ title: "C3-GAN+: Complex-Condition-Controlled Generative Adversarial Networks
 publication_types:
   - "0"
 authors:
-  - Yingxue Zhang
+  - admin
   - Yanhua Li
   - Xun Zhou
   - Zhenming Liu and Jun Luo
