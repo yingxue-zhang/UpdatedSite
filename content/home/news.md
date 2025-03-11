@@ -8,6 +8,9 @@ subtitle: null
 design:
   columns: "2"
 ---
+
+
+* **<font color="green">\[TPC]</font>** 03/2025: PC for NeurIPS 2025.
 * **<font color="red">\[Paper]</font>** 11/2024: One paper was accepted by TKDD.
 * **<font color="green">\[TPC]</font>** 11/2024: PC for IJCAI 2025.
 * **<font color="red">\[Paper]</font>** 09/2024:One paper was accepted by ﻿[NeurIPS 2024](https://neurips.cc/)!
