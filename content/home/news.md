@@ -8,8 +8,8 @@ subtitle: null
 design:
   columns: "2"
 ---
-
-
+* **<font color="green">\[TPC]</font>** 06/2025: PC for CIKM 2025.
+* **<font color="red">\[Paper]</font>** 05/2025: One paper was accepted by [KDD 2025](https://kdd2025.kdd.org/). Congratulations to Yuhang!
 * **<font color="green">\[TPC]</font>** 03/2025: PC for NeurIPS 2025.
 * **<font color="red">\[Paper]</font>** 11/2024: One paper was accepted by TKDD.
 * **<font color="green">\[TPC]</font>** 11/2024: PC for IJCAI 2025.
