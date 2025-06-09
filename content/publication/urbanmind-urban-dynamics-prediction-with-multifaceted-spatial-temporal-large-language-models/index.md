@@ -8,7 +8,7 @@ authors:
   - admin
   - Xin Zhang
   - Yanhua Li
-  - Jun Luo
+  - and Jun Luo
 publication: " In Proceedings of the 31st ACM SIGKDD Conference on Knowledge
   Discovery and Data Mining (KDD ’25), August 3–7, 2025, Toronto, ON, Canada."
 draft: false
