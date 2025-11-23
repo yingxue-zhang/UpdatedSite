@@ -1,10 +1,15 @@
 ---
-title: "MARCEL: Multifaceted SpAtial-TempoRal ContrastivE Learning for Generic
+title: "MARCEL: Multifaceted Spatial-Temporal Contrastive Learning for Generic
   Spatial-Temporal Representations"
 publication_types:
   - "0"
 authors:
-  - Yuhang Liu; Admin; Xin Zhang; Yu Yang; Yanhua Li; Jun Luo
+  - Yuhang Liu
+  - admin
+  - Xin Zhang
+  - Yu Yang
+  - Yanhua Li
+  - Jun Luo
 publication: IEEE International Conference on Data Mining (ICDM), 2025. (Full
   paper acceptance rate = 13.5%)
 draft: false
