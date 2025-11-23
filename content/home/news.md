@@ -8,6 +8,7 @@ subtitle: null
 design:
   columns: "2"
 ---
+* **<font color="red">\[Paper]</font>** 11/2025: One paper was accepted by [KDD 2026](https://kdd2026.kdd.org/). Congratulations to Yuhang!﻿
 * **<font color="red">\[Paper]</font>** 08/2025: One paper was accepted by [ICDM 2025](https://www3.cs.stonybrook.edu/~icdm2025/index.html). Congratulations to Yuhang!
 * **<font color="red">\[Award]</font>** 08/2025: I have received the Educator of the Year Award from the School of Computing at Binghamton University (2024-25).
 * **<font color="green">\[TPC]</font>** 06/2025: PC for CIKM 2025.
