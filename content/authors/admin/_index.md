@@ -44,6 +44,6 @@ highlight_name: true
 ---
 Yingxue Zhang is an Assistant Professor in **[Computer Science Department](https://www.binghamton.edu/computer-science/index.html)** at **[Binghamton University](https://www.binghamton.edu/)**. She got her Ph.D. degree in Data Science from Worcester Polytechnic Institute in 2022. Her broad research interests include: (1) designing novel deep learning and AI techniques to solve spatial-temporal big data analytics problems related to smart cities, and (2) human behavior analysis and decision making modeling
 
-{{< icon name="download" pack="fas" >}} Download {{< staticref "uploads/cv.pdf" "newtab" >}}CV{{< /staticref >}}.
+
 
 <font color="dark red"> **Openings:** I am looking for self-motivated PhD students to work on deep learning topics. I'm particularly interested in candidates with background in CS/AI/Data Mining/Machine Learning/Stat/Math and strong programming skills. Please send me a short email with your CV and transcript.</font>
