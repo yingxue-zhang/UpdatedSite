@@ -8,7 +8,7 @@ subtitle: null
 design:
   columns: "2"
 ---
-* **<font color="red">\[Paper]</font>** 5/2026: Two paper were accepted by [ICML 2026](https://icml.cc/) and selected **Spotlight**.
+* **<font color="red">\[Paper]</font>** 5/2026: Two papers were accepted by [ICML 2026](https://icml.cc/) and selected as **Spotlights**.
 * **<font color="red">\[Paper]</font>** 11/2025: One paper was accepted by [KDD 2026](https://kdd2026.kdd.org/). Congratulations to Yuhang!﻿
 * **<font color="red">\[Paper]</font>** 08/2025: One paper was accepted by [ICDM 2025](https://www3.cs.stonybrook.edu/~icdm2025/index.html). Congratulations to Yuhang!
 * **<font color="orange">\[Award]</font>** 08/2025: I have received the Educator of the Year Award from the School of Computing at Binghamton University (2024-25).
