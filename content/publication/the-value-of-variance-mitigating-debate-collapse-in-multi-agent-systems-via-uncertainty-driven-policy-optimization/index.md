@@ -11,7 +11,7 @@ authors:
   - Muchao Ye
   - Zhaohan Xi
 publication: In proceedings of the 43rd International Conference on Machine
-  Learning (ICML 2026, Spotlight paper)..
+  Learning (ICML 2026, Spotlight paper)
 draft: false
 featured: false
 image:
