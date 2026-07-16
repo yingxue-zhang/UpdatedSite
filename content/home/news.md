@@ -14,7 +14,7 @@ design:
 * **<font color="blue">\[Paper]</font>** 5/2026: Two papers were accepted by [ICML 2026](https://icml.cc/) and selected as **Spotlights**.
 * **<font color="blue">\[Paper]</font>** 11/2025: One paper was accepted by [KDD 2026](https://kdd2026.kdd.org/). Congratulations to Yuhang!﻿
 * **<font color="blue">\[Paper]</font>** 08/2025: One paper was accepted by [ICDM 2025](https://www3.cs.stonybrook.edu/~icdm2025/index.html). Congratulations to Yuhang!
-* **<font color="red">\[Award]</font>** 08/2025: I have received the Educator of the Year Award from the School of Computing at Binghamton University (2024-25).
+* **<font color="red">\[Award]</font>** 08/2025: Received the Educator of the Year Award from the School of Computing at Binghamton University (2024-25).
 * **<font color="green">\[TPC]</font>** 06/2025: PC for CIKM 2025.
 * **<font color="blue">\[Paper]</font>** 05/2025: One paper was accepted by [KDD 2025](https://kdd2025.kdd.org/). Congratulations to Yuhang!
 * **<font color="green">\[TPC]</font>** 03/2025: PC for NeurIPS 2025.
