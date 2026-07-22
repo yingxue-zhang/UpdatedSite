@@ -8,8 +8,7 @@ subtitle: null
 design:
   columns: "2"
 ---
-
-
+* **<font color="red">\[Award]</font>** 07/2026: Received the NSF Future CoRe (Info Integration & Informatics) award (as Co-PI)!
 * **<font color="red">\[Award]</font>** 07/2026: Received the NSF CAREER Award (as PI)!
 * **<font color="blue">\[Paper]</font>** 5/2026: Two papers were accepted by [ICML 2026](https://icml.cc/) and selected as **Spotlights**.
 * **<font color="blue">\[Paper]</font>** 11/2025: One paper was accepted by [KDD 2026](https://kdd2026.kdd.org/). Congratulations to Yuhang!﻿
